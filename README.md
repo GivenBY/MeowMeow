@@ -13,23 +13,17 @@ Inspired by [pbaygtk](https://github.com/aspizu/pbaygtk/).
    ```
 
 2. Install the package using pip:
-
-```bash
-pip install .
-```
-
-3. Run the application using the new command:
-
-```bash
-meowmeow
-```
+   ```bash
+   pip install .
+   ```
+   
 ## Run
 
 Once installed, you can run the application using:
 
-```bash
-python main.py
-```
+   ```bash
+   meowmeow
+   ```
 
 ## API Key
 
