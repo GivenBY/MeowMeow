@@ -13,7 +13,7 @@ setup(
             "meowmeow=main:main",
         ]
     },
-    author="Your Name",
+    author="GiveBy",
     description="A simple wrapper around Groq with GTK 3 GUI",
     long_description=open("README.md").read(),
     long_description_content_type="text/markdown",
