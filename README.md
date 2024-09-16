@@ -6,20 +6,24 @@ Inspired by [pbaygtk](https://github.com/aspizu/pbaygtk/).
 
 ## Installation
 
-Clone the repository:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/GivenBY/MeowMeow.git
+   cd MeowMeow
+   ```
 
-```bash
-git clone https://github.com/GivenBY/MeowMeow.git
-cd MeowMeow
-```
-
+2. Install the package using pip:
+   ```bash
+   pip install .
+   ```
+   
 ## Run
 
 Once installed, you can run the application using:
 
-```bash
-python main.py
-```
+   ```bash
+   meowmeow
+   ```
 
 ## API Key
 
